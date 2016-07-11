@@ -1,16 +1,16 @@
-layout_spectrum: 0.23235663957893848
-typography_spectrum: 0.1977812428958714
+layout_spectrum: 0.6755588066298515
+typography_spectrum: 0.35649402905255556
 color:
-  brandStrength: 0.8419745624996722
-  lightness: 0.678341506049037
-  saturation: 0.5119430930353701
-  rhythmicContrast: 0.3273138012737036
+  brandStrength: 0.7201953164767474
+  lightness: 0.021475579123944044
+  saturation: 0.2863121705595404
+  rhythmicContrast: 0.00679038162343204
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 name: Emcinco Flies South
 author:
   name: PB
